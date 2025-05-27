@@ -30,13 +30,6 @@ The **Hospital Emergency Room Dashboard** is designed in **Microsoft Excel** to 
 🚻 **Gender Analysis**: Displays the count of patients by gender.
 🏥 **Department Referrals**: Highlights the most frequently referred departments.
 
----
-
-## 🖼️ Dashboard Layout
-
-> 📷 **Screenshot of the Dashboard Layout**
-
-![Dashboard Screenshot](./Dashboard_Layout.png) 
 
 ---
 
