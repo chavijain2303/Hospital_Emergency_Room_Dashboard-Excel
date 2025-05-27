@@ -24,11 +24,11 @@ The **Hospital Emergency Room Dashboard** is designed in **Microsoft Excel** to 
 
 ## 📊 Charts and Visualizations
 
-✅ **Patient Admission Status**: Compares the number of patients admitted vs. not admitted.
-👶 **Patient Age Distribution**: Groups patients into different age brackets for analysis.
-⏱️ **Timeliness**: Shows the % of patients seen within 30 minutes of arrival.
-🚻 **Gender Analysis**: Displays the count of patients by gender.
-🏥 **Department Referrals**: Highlights the most frequently referred departments.
+✅ - **Patient Admission Status**: Compares the number of patients admitted vs. not admitted.
+👶 - **Patient Age Distribution**: Groups patients into different age brackets for analysis.
+⏱️ - **Timeliness**: Shows the % of patients seen within 30 minutes of arrival.
+🚻 - **Gender Analysis**: Displays the count of patients by gender.
+🏥 - **Department Referrals**: Highlights the most frequently referred departments.
 
 
 ---
